@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-<img src=assets/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20Max%20-%202022-10-04%20at%2018.07.55.png>
+<img src="assets/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20Max%20-%202022-10-04%20at%2018.07.55.png" height =400>
 
 This project is a starting point for a Flutter application.
 
