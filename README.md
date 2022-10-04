@@ -8,6 +8,8 @@ A new Flutter project.
 <img src="assets/screenshots/Simulator%20Screen%20Recording%20-%20iPhone%2013%20Pro%20Max%20-%202022-10-04%20at%2018.08.38.gif" height=400>
 
 This project is a starting point for a Flutter application.
+This code is based with flutter mapp youtube channel
+
 
 A few resources to get you started if this is your first Flutter project:
 
